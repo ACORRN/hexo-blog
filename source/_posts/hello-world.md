@@ -1,7 +1,7 @@
 ---
-title: 你的文章标题
+title: 车规级UWB数字钥匙
 date: 2025-01-14 10:30:00
-tags: [技术, Hexo]
+tags: [技术, 电子]
 categories: [教程]
 ---
 
