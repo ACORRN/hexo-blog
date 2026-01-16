@@ -5,8 +5,7 @@ tags: [技术, 电子, 汽车]
 categories: [调研]
 ---
 
-# Euro NCAP CPD（Child Presence Detection）
-# 市场与技术调研报告
+# Euro NCAP CPD（Child Presence Detection） 市场与技术调研报告
 
 ***
 
